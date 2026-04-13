@@ -119,5 +119,26 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\services-parametres-et-icone-d-engrenage-noir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timer-stopwatch-outline-style-icon-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporixajdor.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
