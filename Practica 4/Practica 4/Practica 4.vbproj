@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0AE3A02A-125E-4E3E-A17C-FD5D42B5C551}</ProjectGuid>
+    <ProjectGuid>{CC2ECECB-1918-4B4C-96D7-0B5EA5D6CDDC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <StartupObject>Practica_4.My.MyApplication</StartupObject>
     <RootNamespace>Practica_4</RootNamespace>
@@ -120,25 +120,25 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\services-parametres-et-icone-d-engrenage-noir.png" />
+    <None Include="Resources\1731664017-apple-watch-10-67371865a87cc.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\timer-stopwatch-outline-style-icon-vector.jpg" />
+    <None Include="Resources\1731664017-apple-watch-10-67371865a87cc1.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Sin título.png" />
+    <None Include="Resources\ajustes.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Sin título1.png" />
+    <None Include="Resources\descarga.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Sin título2.png" />
+    <None Include="Resources\icono_crono.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Sin título3.png" />
+    <None Include="Resources\reloj de arena.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\temporixajdor.png" />
+    <None Include="Resources\Untitled.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
